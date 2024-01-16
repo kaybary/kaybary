@@ -1,18 +1,18 @@
 ## My name is Marlon David Rodríguez Rojas
 
 
-- 🔭 Eu quero me tornar um profissional de ponta na indústria de tecnologia 
+- 🔭 I want to become a top professional in the tech industry
  
-- 🎓 Cursando 4° semestre em Engenharia de Software na UCSAL 
+- 🎓 Cursing 4° semester in Software Development Engineer
 
-- 📫 Entre em contato pelo e-mail: brianschultz320@gmail.com 
+- 📫 My e-mail is: rodriguezmarlondavid@gmail.com 
  
 - ⚡️ Practicing English Constantly 
 
   ##
   
  <div>
-  <a href="https://github.com/BrianSchultz1">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianSchultz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSchultz1&layout=compact&langs_count=7&theme=dark"/>
 </div>
