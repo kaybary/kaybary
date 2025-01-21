@@ -3,7 +3,7 @@
 
 - 🔭 I want to become a top professional in the tech industry
  
-- 🎓 Cursing 4° semester in Software Development Engineer
+- 🎓 Cursing 6° semester in Software Development Engineer
 
 - 📫 My e-mail is: rodriguezmarlondavid@gmail.com 
  
